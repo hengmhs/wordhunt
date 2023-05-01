@@ -24,7 +24,7 @@ Each game lasts for 45 seconds.
 Player names and profile photos in the screenshot removed for privacy. The bot will display your Telegram username in the scoring phase.
 
 **Starting the Game**
-![Starting the Game](screenshot/start-screenshot.png)
+![Starting the Game](screenshots/start-screenshot.png)
 
 **Ending the Game**
-![Ending the Game](screenshot/end-screenshot.png)
+![Ending the Game](screenshots/end-screenshot.png)
