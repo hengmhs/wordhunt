@@ -1,13 +1,14 @@
-# Word Hunt 
+# Word Hunt
 
-## About 
+## About
 
 A Telegram bot built in Python to play a word search game with friends.
 
 ## How to Play
+
 Try to score the most points by forming words from the letters given and typing them into the chat.
 
-Each letter that appears in the letter row can only be used once. *(e.g. If 'G' appears once, it can only be used once per word, but if 'G' appears twice it can be used twice in the word.)*
+Each letter that appears in the letter row can only be used once. _(e.g. If 'G' appears once, it can only be used once per word, but if 'G' appears twice it can be used twice in the word.)_
 
 Once a word has been scored, other players will not score points by typing the word.
 
@@ -24,7 +25,9 @@ Each game lasts for 45 seconds.
 Player names and profile photos in the screenshot removed for privacy. The bot will display your Telegram username in the scoring phase.
 
 **Starting the Game**
+
 ![Starting the Game](screenshots/start-screenshot.png)
 
 **Ending the Game**
+
 ![Ending the Game](screenshots/end-screenshot.png)
